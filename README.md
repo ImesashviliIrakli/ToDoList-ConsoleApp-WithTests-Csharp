@@ -9,12 +9,13 @@
 
 ## Description
 
-- Create a `TODO console application` and a class library with a `TODO List domain model`.
+Create a `TODO console application` and a class library with a `TODO List domain model`.  ``
+
 - Student needs to create a solution with 3 projects:
     - a class library project which contains classes that represent a domain model for a TODO List application;
     - a client console application that demonstrates the usage of the class library;
     - a unit test project that provides unit tests for the TODO List class library.
-- User of `TODO List application` should be able to:
+- User of TODO List application should be able to:
     - create multiple TODO lists;
     - remove a list;
     - assign TODOs entries to a list;
