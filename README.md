@@ -5,7 +5,7 @@
   
 **Estimated time to complete:** 6 hours.
 
-**Task status:** mandatory / Manually-checked.
+**Task status:** mandatory / manually-checked.
 
 ## Description
 
