@@ -6,6 +6,9 @@
 **Estimated time to complete:** 6 hours.
 
 **Task status:** mandatory / manually-checked.
+- This task requires you to create Unit tests for your solution. Please read about unit testing techniques before creating unit tests:
+1. Testing principles https://sttp.site/chapters/getting-started/testing-principles.html
+1. Boundary testing https://sttp.site/chapters/testing-techniques/boundary-testing.html
 
 ## Description
 
