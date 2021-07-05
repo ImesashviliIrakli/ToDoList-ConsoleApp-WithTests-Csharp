@@ -1,7 +1,7 @@
 # TODO List Application
 
 ## Purpose
-**The purpose of the task:** to get a practical experience on how to create a multi project solution, how to create a reusable library of classes that represent a domain model for a real application, the TODO List application in this case. This task will give a practical experience of how to create domain models of a real applications, how to check its functionality by Unit tests and how to demonstrate it to the customers by providing a user interface applications. As a user interface application a simple console application will be used.
+This time, you will create a reusable library of classes that represents a domain model for a real TODO list application. While completing the task, you will discover how to check the functionality of the domain models with the help of unit tests and how to demonstrate it to customers by providing an application with a user interface. As an application with a user interface, a simple console application will be used. 
   
 **Estimated time to complete:** 6 hours.
 
