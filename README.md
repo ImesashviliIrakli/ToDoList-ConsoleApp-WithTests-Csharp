@@ -29,7 +29,7 @@ Create a `TODO console application` and a class library with a `TODO List domain
     - change the default status of a newly created TODO entry which is "uncompleted" to "completed" if the task is finished.
 
 - Configuration requirements:
-   - make sure that all the TODO List data is stored in the database
+   - make sure that all the TODO list data is stored in the database
    - use the EF Core framework or ADO.NET to save and read data from the database
    - add the unit test project and several unit tests to test the domain model and the DB connection
    - add the console application that demonstrates the basic functionality of the TODO List application: the console application should cover all the above-mentioned use cases: from #1 to #8.
